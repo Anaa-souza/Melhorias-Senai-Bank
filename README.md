@@ -78,14 +78,7 @@ Para validar o funcionamento do aplicativo, os seguintes testes automatizados/ma
 
 ---
 
-## 👥 Divisão de Trabalho da Dupla
 
-| Integrante | Responsabilidades Principais |
-| :--- | :--- |
-| **Estudante A** | Construção do formulário, lógica de seleção de categorias e validação anti-saldo negativo. |
-| **Estudante B** | Estruturação da Dashboard, contador dinâmico de transações e aprimoramento visual do extrato. |
-
----
 
 ## 💻 Como Instalar e Executar o Projeto
 
